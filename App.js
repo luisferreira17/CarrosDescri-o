@@ -23,7 +23,7 @@ const carros = [
   {
     id: '4',
     nome: 'Ford Ranger',
-    imagem: require('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynfvsuz6cOcy5NJGtA1NEF-CLNpLygiSsTw&s'),
+    imagem: require('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauAUlcjpgOkB_Zy2SK3MLcRGvAaBV8IdFew&s'),
     descricao: 'A Ford Ranger é uma picape robusta, preparada para enfrentar terrenos difíceis. Seu design imponente agrada aos aventureiros e trabalhadores rurais.',
   },
   {
