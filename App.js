@@ -11,7 +11,7 @@ const carros = [
   {
     id: '2',
     nome: 'Honda Civic',
-    imagem: require('https://img.olx.com.br/images/57/572584519665004.webp'),
+    imagem: require('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE279W7-VYW4fevxBa9C0oUnz_lSI-mepjxg&s'),
     descricao: 'O Honda Civic combina desempenho com um visual esportivo. É ideal para quem busca um carro estiloso, econômico e com boa revenda no mercado nacional.',
   },
   {
